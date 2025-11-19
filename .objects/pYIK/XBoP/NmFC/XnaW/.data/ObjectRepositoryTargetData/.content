@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="OHQBbi6iU02ZMhxpy_1VHQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="automationplayground.com/crm/login.html" CVScreenId="ce345494-b77f-47aa-8616-ff092f2ce3d8" CvElementArea="791, 466, 16, 16" CvType="CheckBox" DesignTimeRectangle="793, 468, 13, 13" ElementType="CheckBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='remember' tag='INPUT' type='checkbox' class='' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="8b368491-580d-49ad-bfd5-ed0401dc3ecd" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Customer Service - Login' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ce345494-b77f-47aa-8616-ff092f2ce3d8" CvElementArea="791, 466, 16, 16" CvTextArea="812, 467, 94, 13" CvTextArgument="Remember me" CvType="CheckBox" DesignTimeRectangle="793, 464, 113, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Remember me' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Remember me' /&gt;" Guid="b25459c0-d887-4885-93a2-457bba6a073c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b92719a7fcaaff7ac0a8d6061807f493.png" xmlns="">0hgEgzAkiAUmOz-gyNUuOGg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Check</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

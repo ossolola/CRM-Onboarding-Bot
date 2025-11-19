@@ -4,7 +4,9 @@
   "description": "This process automates the daily onboarding of new customers into the CRM system. Each day, the robot reads an Excel file containing customer records that were previously entered manually. For every record, the robot validates the email address to ensure it follows the correct format. Valid records are automatically entered into the CRM web application, reducing manual effort and minimizing human error. Invalid entries are flagged and excluded from submission. After processing the file, the robo",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.System.Activities": "[25.10.3]"
+    "UiPath.Excel.Activities": "[3.3.1]",
+    "UiPath.System.Activities": "[25.10.3]",
+    "UiPath.UIAutomation.Activities": "[25.10.20]"
   },
   "webServices": [],
   "entitiesStores": [],
