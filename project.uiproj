@@ -1,0 +1,6 @@
+{
+  "Name": "CRM-Onboarding-Bot",
+  "ProjectType": "Process",
+  "Description": "This process automates the daily onboarding of new customers into the CRM system. Each day, the robot reads an Excel file containing customer records that were previously entered manually. For every record, the robot validates the email address to ensure it follows the correct format. Valid records are automatically entered into the CRM web application, reducing manual effort and minimizing human error. Invalid entries are flagged and excluded from submission. After processing the file, the robo",
+  "MainFile": "Main.xaml"
+}
