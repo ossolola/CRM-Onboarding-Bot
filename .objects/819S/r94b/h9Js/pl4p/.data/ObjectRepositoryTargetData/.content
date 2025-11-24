@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="bOsuSzmA70-mnAlB3mPOqA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="" CVScreenId="266de194-3021-4637-9023-4168e49dc153" CvElementArea="792, 636, 351, 33" CvType="InputBox" DesignTimeRectangle="793, 637, 350, 31" ElementType="DropDown" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='StateOrRegion' tag='SELECT' type='' class='form-select form-select-lg mb-3' aaname='State' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="228c3895-20c0-4ce4-9c45-50680fe61129" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Customer Service - Add Customer' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="266de194-3021-4637-9023-4168e49dc153" CvTextArea="793, 615, 35, 13" CvTextArgument="State" CvType="Text" DesignTimeRectangle="793, 612, 34, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='State' tag='LABEL' type='' class='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='State' /&gt;" Guid="9127169f-cddf-4ef6-adb1-17bef5ba9ae5" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="6a3b75d8ca5eff2e980a2db38a083a28.png" xmlns="">0hf9NRBdLw0yCj1db_b-kqw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
